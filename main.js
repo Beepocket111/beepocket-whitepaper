@@ -1,5 +1,3 @@
-import './styles.css';
-
 const progress = document.querySelector('#readingProgress');
 const backTop = document.querySelector('#backTop');
 const toc = document.querySelector('#toc');
